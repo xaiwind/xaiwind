@@ -1,0 +1,49 @@
+# ---- 通用 .gitignore（个人 GitHub 主页）----
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js（如果用脚本生成 README）
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 构建产物 / 缓存
+dist/
+build/
+.cache/
+out/
+
+# 日志 / 临时文件
+*.log
+*.tmp
+*.temp
+
+# 密钥 / 敏感信息（绝不提交）
+.env
+.env.*
+!.env.example
+*.pem
+*.key
