@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### 你好，我是XAIWIND 想风
+### 你好，我是XaiWind 想风
 
-后端工程师，写 PHP 和 Go，最近在做 AI Agent 方向的东西。
+后端工程师，写 PHP 和 Go，最近在做 AI Agent 和 AIGC 方向的东西。
 
 **正在做**
 - 一个出海 SaaS 工具（Go + Postgres）
