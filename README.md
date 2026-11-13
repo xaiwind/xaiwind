@@ -12,7 +12,7 @@
 PHP、Go、Python、MySQL、Redis、Docker
 
 **找我**
-- 博客：https://shoptofly.com/doc
+- 个人页：https://xaiwind.com
 - X：https://x.com/xaiwind
 <!--
 **xaiwind/xaiwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
